@@ -1,0 +1,8 @@
+introduce yourself ,give intro ,
+mins ,minutes ,minute ,min ,
+hrs ,hours ,hr ,hour ,
+multiply ,multiplied ,
+cls ,clrscr ,clear ,clr ,,flush ,
+ exit ,close ,quit ,
+secs ,seconds ,sec ,second , s ,
+ flushdns ,ipconfig ,

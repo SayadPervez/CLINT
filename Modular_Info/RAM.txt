@@ -1,0 +1,3 @@
+>(['at your service sir', 'always there sir', 'on your mark sir', 'alive and armed sir'])<	>[['you alive']]<	 >-['*']-<
+>(['hi sir', 'hola sir', 'at your service sir, how can i help you ?', 'good morning sir'])<	>[['hey clint', 'hey idiot']]<	 >-[['_hello', 'idiot'], ['_hi', 'idiot']]-<
+>(['copy'])<	>[['mask', "that's an order", 'thats an order']]<	 >-['*', ['a', 'b'], ['c', 'd']]-<

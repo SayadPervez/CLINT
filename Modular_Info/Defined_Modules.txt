@@ -1,0 +1,34 @@
+^@^^#add#^^@^	+|>mathematical<|+	)-)add.py(-(
+^@^^#subtract#^^@^	+|>mathematical<|+	)-)subtract.py(-(
+^@^^#plus#^^@^	+|>mathematical<|+	)-)plus.py(-(
+^@^^#minus#^^@^	+|>mathematical<|+	)-)minus.py(-(
+^@^^#play#^^@^	+|>executable_keyword<|+	)-)play.py(-(
+^@^^#cls#^^@^	+|>executable_shortcut<|+	)-)clrscr.py(-(
+^@^^#clrscr#^^@^	+|>executable_shortcut<|+	)-)clrscr.py(-(
+^@^^#clear#^^@^	+|>executable_shortcut<|+	)-)clrscr.py(-(
+^@^^#clr#^^@^	+|>executable_shortcut<|+	)-)clrscr.py(-(
+^@^^#exit#^^@^	+|>executable_shortcut<|+	)-)exit.py(-(
+^@^^#quit#^^@^	+|>executable_shortcut<|+	)-)exit.py(-(
+^@^^#$-$#^^@^	+|>pseudo_executable_keyword<|+	)-)>>>inline<<<(-(
+^@^^#vatican cameos#^^@^	+|>executable_shortcut<|+	)-)vatican cameos.py(-(
+^@^^#say#^^@^	+|>executable_shortcut<|+	)-)say.py(-(
+^@^^#introduce yourself#^^@^	+|>pre-defined speech<|+	)-)intro.py(-(
+^@^^#give intro#^^@^	+|>pre-defined speech<|+	)-)intro.py(-(
+^@^^#songs#^^@^	+|>executable_shortcut<|+	)-)playlist.py(-(
+^@^^#playlist#^^@^	+|>executable_shortcut<|+	)-)playlist.py(-(
+^@^^#timer#^^@^	+|>executable_shortcut<|+	)-)timer.py(-(
+^@^^#wait#^^@^	+|>executable_shortcut<|+	)-)wait.py(-(
+^@^^#close#^^@^	+|>executable_shortcut<|+	)-)clrscr.py(-(
+^@^^#intro#^^@^	+|>executable_shortcut<|+	)-)intro.py(-(
+^@^^#hider#^^@^	+|>executable_shortcut<|+	)-)hider.py(-(
+^@^^#flushdns#^^@^	+|>executable_shortcut<|+	)-)flushdns.py(-(
+^@^^#time#^^@^	+|>executable_shortcut<|+	)-)time.py(-(
+^@^^#date#^^@^	+|>executable_shortcut<|+	)-)date.py(-(
+^@^^#now#^^@^	+|>executable_shortcut<|+	)-)now.py(-(
+^@^^#today#^^@^	+|>executable_shortcut<|+	)-)today.py(-(
+^@^^#multiply#^^@^	+|>mathematical<|+	)-)multiply.py(-(
+^@^^#multiplied#^^@^	+|>mathematical<|+	)-)multiply.py(-(
+^@^^#divide#^^@^	+|>mathemical<|+	)-)divide.py(-(
+^@^^#by#^^@^	+|>mathematical<|+	)-)by(math).py(-(
+^@^^#into#^^@^	+|>mathematical<|+	)-)into(math).py(-(
+^@^^#open#^^@^	+|>executable_shortcut<|+	)-)open.py(-(
